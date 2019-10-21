@@ -12,6 +12,8 @@ if( example == "good" )
   //do nothing
 }
 ```
-* Example of [Large Class](large-class.md)
+
+* [Combinatorial Explosion](combinatorial-explosion.md)
 * [Comments](comments.md)
 * [Dead Code](dead-code.md)
+* [Large Class](large-class.md)
