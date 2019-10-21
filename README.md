@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *[Conditional Complexity](conditional-complexity.md)
 =======
 # Code Smells
