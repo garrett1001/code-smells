@@ -13,4 +13,5 @@ if( example == "good" )
 }
 ```
 
-## Example of [Large Class](largeClass.md)
+* Example of [Large Class](largeClass.md)
+* [Dead Code](dead-code.md)
