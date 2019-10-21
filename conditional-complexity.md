@@ -21,3 +21,9 @@ def login_user(request):
     else:
         return render(request, 'usermanagement/login.html')
 ```
+
+In our example, we have an if statement that checks a file extension. We use it to avoid animated files that aren't images. Since we may come across more file extensions in the future that we want to ignore, or potentially brand new file extensions, a better solution would be putting all the extensions in a list rather than a long one-line.
+
+```{python}
+ if fextension != ".gif" and fextension != ".mp4" and fextension != ".mov" and fextension != ".flv" and fextension != ".gifv":
+```
