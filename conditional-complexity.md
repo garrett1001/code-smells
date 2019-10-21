@@ -27,4 +27,3 @@ In our example, we have an if statement that checks a file extension. We use it 
 ```{python}
  if fextension != ".gif" and fextension != ".mp4" and fextension != ".mov" and fextension != ".flv" and fextension != ".gifv":
 ```
-

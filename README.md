@@ -12,8 +12,12 @@ if( example == "good" )
   //do nothing
 }
 ```
+
 * [Combinatorial Explosion](combinatorial-explosion.md)
 * [Comments](comments.md)
+* [Conditional Complexity](conditional-complexity.md)
 * [Dead Code](dead-code.md)
 * [Type Embedded](type-embed.md)
-* [Conditional Complexity](conditional-complexity.md)
+* [Inconsistent Names](inconsistent-names.md)
+* [Shotgun Surgery](shotgun-surgery.md)
+* [Type Embedded](type-embed.md)
